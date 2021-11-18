@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(240, 219, 200);
+}
+
+h2 {
+    color: darkmagenta;
+}
+
+ul,ol > li {
+    list-style-position: inside;
+}
+
+.text-magenta {
+    color: magenta;
+}
+
+img {
+    width: 50%;
+
+}
+
